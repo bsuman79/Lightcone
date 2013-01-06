@@ -1,0 +1,24 @@
+0.044
+0.25
+-1.0
+72.25
+1300.0
+11
+32
+1024
+1
+/project/projectdirs/hacc/lightcone/jnk
+/project/projectdirs/hacc/Coyote/M000/G003/Gadget_
+
+// input parameters
+Omega_b, baryon matter
+Omega_m, total matter
+wt, dark energy eq. of state
+hubble parameter
+box size of the simulation Mpc
+number of snapshots (how many redshifts?)
+number of files per snapshots
+no. of particles
+currrent snapshot
+output files
+input files
