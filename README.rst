@@ -27,8 +27,7 @@ need not be changed frequently.
 
 4. input.par- file that contain the values of the input parameters.
 
-5. driver_lc.cpp- the main driver routine that calls the class lightcone
- and project the particles from the box to the octant sphere.
+5. driver_lc.cpp- the main driver routine that calls the class lightcone and project the particles from the box to the octant sphere.
 
  
 
